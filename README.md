@@ -2,7 +2,7 @@
 
 A sleek, animated typing effect built with HTML, CSS, and JavaScript. This project dynamically types and deletes words in a loop, creating an engaging UI element perfect for portfolios, landing pages, or magical-themed websites.
 ## 📸 Preview
-![Typing Animation Demo](typing text gif.gif)
+![Typing Animation Demo](https://github.com/aishi1528/Typing-text-animation/blob/main/typing%20text%20gif.gif)
 
 ## 🔮 Demo
 [Live Preview](https://aishi1528.github.io/Typing-text-animation/)
