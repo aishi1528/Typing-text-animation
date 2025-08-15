@@ -1,0 +1,29 @@
+body {
+  background: #0f0f0f;
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
+
+.type-container {
+  font-size: 2rem;
+}
+
+.cursor {
+  display: inline-block;
+  background-color: #fff;
+  width: 2px;
+  animation: blink 0.7s steps(1) infinite;
+  margin-left: 2px;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+    
+  }
+}
